@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f8fa"/>
+  <circle cx="1015" cy="145" r="240" fill="none" stroke="#e2e5e9" stroke-width="2"/>
+  <circle cx="1015" cy="145" r="190" fill="none" stroke="#e2e5e9" stroke-width="2"/>
+  <rect x="820" y="110" width="280" height="400" rx="130" fill="#e9f0ff" stroke="#dce6fb" stroke-width="2"/>
+  <text x="960" y="330" fill="#2563eb" font-family="Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-8" text-anchor="middle">PSV</text>
+  <text x="100" y="160" fill="#626975" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="5">COMPUTER SCIENCE STUDENT</text>
+  <text x="100" y="255" fill="#17191c" font-family="Arial, sans-serif" font-size="65" font-weight="700" letter-spacing="-3">Patan Syed</text>
+  <text x="100" y="330" fill="#2563eb" font-family="Arial, sans-serif" font-size="65" font-weight="700" letter-spacing="-3">Saheb Valli</text>
+  <text x="100" y="410" fill="#626975" font-family="Arial, sans-serif" font-size="28">Aspiring Web Developer</text>
+  <rect x="100" y="470" width="68" height="5" rx="2.5" fill="#2563eb"/>
+</svg>
